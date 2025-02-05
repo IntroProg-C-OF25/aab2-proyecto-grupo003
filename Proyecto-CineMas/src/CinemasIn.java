@@ -1,4 +1,3 @@
-
 import java.text.SimpleDateFormat; //SimpleDateFormat se usa para formatear y convertir fechas en String con diferentes formatos.
 import java.util.Calendar; //Calendar permite manipular fechas y horas
 import java.util.Date; //Se usa en combinación con SimpleDateFormat para convertir fechas a String.
